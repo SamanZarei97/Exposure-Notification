@@ -1,8 +1,5 @@
 /**
  * Name: Saman Zarei
- * Email: S1zarei@ucsd.edu
- * PID: A16613221
- * Source: Lecture Slides, Zybook, Oracle
  * This file has designed to provide some valid information about each
  * student like their random IDs, distance between the students and the
  * time  they had contact to each other. These information will use to see
