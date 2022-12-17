@@ -1,8 +1,5 @@
 /**
  * Name: Saman Zarei
- * Email: S1zarei@ucsd.edu
- * PID: A16613221
- * Source: Lecture Slides, Zybook, Oracle
  * This file has designed to check and find the infected id.
  * This file collects all the infected IDs and stores them to know
  * which IDs are infected and by doing this, we recognize students who are
