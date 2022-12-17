@@ -1,8 +1,5 @@
 /**
  * Name: Saman Zarei
- * Email: S1zarei@ucsd.edu
- * PID: A16613221
- * Source: Lecture Slides, Zybook, Oracle
  * This file connects the ContactInfo class and Server class to
  * the students class and checks if the students are in the highRisk of
  * getting Covid-19 or not by the information.
