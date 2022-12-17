@@ -1,5 +1,5 @@
 /*
- * This file contains the Simulator class for PA6. It runs a simple Exposure
+ * This file contains the Simulator class for this project. It runs a simple Exposure
  * Notification System simulation based on the system described here:
  * https://www.google.com/covid19/exposurenotifications/
  */
