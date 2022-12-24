@@ -1,5 +1,4 @@
 /**
- * Name: Saman Zarei
  * This file has designed to check and find the infected id.
  * This file collects all the infected IDs and stores them to know
  * which IDs are infected and by doing this, we recognize students who are
@@ -13,7 +12,6 @@ import java.util.Random;
  * This class has designed to represent the server that stores all recent
  * IDs from COVID-19 positive users. The server will only support two
  * operations: adding new infected IDs and getting all stored infected IDs.
- * @author Saman Zarei
  */
 public class Server{
 
