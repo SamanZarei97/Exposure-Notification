@@ -1,5 +1,4 @@
 /**
- * Name: Saman Zarei
  * This file connects the ContactInfo class and Server class to
  * the students class and checks if the students are in the highRisk of
  * getting Covid-19 or not by the information.
@@ -14,7 +13,6 @@ import java.util.Random;
  * students are in the high risk of covid and need to be in quarantine.
  * Also, this class is representing phones to handle ID exchanges and
  * representing students to handle movements and COVID-19 test status.
- * @author Saman Zarei
  */
 public class Student{
 
