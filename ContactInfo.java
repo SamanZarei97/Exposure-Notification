@@ -1,5 +1,4 @@
 /**
- * Name: Saman Zarei
  * This file has designed to provide some valid information about each
  * student like their random IDs, distance between the students and the
  * time  they had contact to each other. These information will use to see
@@ -15,7 +14,6 @@
  * When two phones exchange information via Bluetooth,in addition to random
  * IDs, they will also store the distance and time of that contact. So this
  * class provides all the contact information like ID, distance and time.
- * @author Saman Zarei
  */
 public class ContactInfo{
 
